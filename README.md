@@ -1,15 +1,21 @@
+<h1 align="center">Hi im Hicham Issoual</h1>
+<h3 align="center">A passionate Beginner Html&css developer from Morocco</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hicham Issoual) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hichamissoual" alt="hichamissoual" /></a> </p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HichamIssoual&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HichamIssoual&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HichamIssoual&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🌱 I’m currently applying what I learned in **Html & css**
 
----
-[![](https://visitcount.itsvg.in/api?id=HichamIssoual&icon=7&color=1)](https://visitcount.itsvg.in)
+- 💬 Ask me about **Html css**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **Hichamissoual.one@gmail.com**
+
+- Mush that is permanent is **better than little that is intermittent**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hichamissoual&show_icons=true&locale=en" alt="hichamissoual" /></p>
