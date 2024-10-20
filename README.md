@@ -1,6 +1,5 @@
 <h1 align="center">Hi ??, I'm Hicham</h1>
 <h3 align="center">I'm beginner front-end developer ???? building elegant and responsive web designs in 2024 ??</h3>
-<img align="right" alt="Yes" width="400" src = "https://www.pexels.com/video/an-octagon-tunnel-2759486/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hichamissoual&label=Profile%20views&color=0e75b6&style=flat" alt="hichamissoual" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hichamissoual" alt="hichamissoual" /></a> </p>
