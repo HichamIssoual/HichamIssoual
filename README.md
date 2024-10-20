@@ -1,25 +1,25 @@
-![image](https://github.com/user-attachments/assets/2df3bdd9-b6d9-4b0b-9f68-000505017530)<h1 align="center">Hi 👋, I'm Hicham</h1>
-<h3 align="center">I'm beginner front-end developer 🌱🌱 building elegant and responsive web designs in 2024 🚀</h3>
-
+<h1 align="center">Hi ??, I'm Hicham</h1>
+<h3 align="center">I'm beginner front-end developer ???? building elegant and responsive web designs in 2024 ??</h3>
+<img align="right" alt="Yes" width="400" src = "https://www.pexels.com/video/an-octagon-tunnel-2759486/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hichamissoual&label=Profile%20views&color=0e75b6&style=flat" alt="hichamissoual" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hichamissoual" alt="hichamissoual" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hicham_dev" target="blank"><img src="https://img.shields.io/twitter/follow/hicham_dev?logo=twitter&style=for-the-badge" alt="hicham_dev" /></a> </p>
 
-- 🔭 I’m currently practicing what I learn in JavaScript [Github repositories](https://github.com/HichamIssoual?tab=repositories)
+- ?? I’m currently practicing what I learn in JavaScript [Github repositories](https://github.com/HichamIssoual?tab=repositories)
 
-- 🌱 I’m currently practicing **html css js**
+- ?? I’m currently practicing **html css js**
 
-- 📝 I’m looking Streamline Your Code [Fetch Repositories](https://github.com/HichamIssoual/Fetch-Repositories)
+- ?? I’m looking Streamline Your Code [Fetch Repositories](https://github.com/HichamIssoual/Fetch-Repositories)
 
-- 🤝 I’m looking for help with [Advanced dashboard](https://github.com/HichamIssoual/Template-Six)
+- ?? I’m looking for help with [Advanced dashboard](https://github.com/HichamIssoual/Template-Six)
 
-- 💬 Ask me about **javaScript, Html and Css**
+- ?? Ask me about **javaScript, Html and Css**
 
-- 📫 How to reach me **hichamissoual.dev@outlook.com**
+- ?? How to reach me **hichamissoual.dev@outlook.com**
 
-- ⚡ Fun fact **The first website ever created is still live! It was made by Tim Berners-Lee in 1991 and shares information about the World Wide Web.**
+- ? Fun fact **The first website ever created is still live! It was made by Tim Berners-Lee in 1991 and shares information about the World Wide Web.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
