@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **javaScript, Html and Css**
 
-- 📫 How to reach me **hichamissoual.dev@outlook.com**
+- 📫 How to reach me **hichamissoual.one@gmail.com**
 
 - ⚡ Fun fact **The first website ever created is still live! It was made by Tim Berners-Lee in 1991 and shares information about the World Wide Web.**
 
