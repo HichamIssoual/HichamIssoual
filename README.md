@@ -157,7 +157,7 @@ mindmap
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hichamissoual-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/hichamissoual/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/hicham_dev" target="_blank">
