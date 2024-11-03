@@ -167,12 +167,6 @@ mindmap
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<!-- Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HichamIssoual&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer" width="100%" />
 </div>
