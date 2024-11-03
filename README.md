@@ -27,7 +27,7 @@ const hicham = {
     title: "Front-End Developer",
     location: "Morocco 🇲🇦",
     education: {
-        degree: "Baccalauréat in SVT",
+        degree: "Baccalauréat in Sciences de la vie et de la terre",
         school: "Lycée Iguig El Ksiba",
         year: "2021-2022"
     },
