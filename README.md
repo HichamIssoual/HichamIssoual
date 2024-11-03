@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6FA4FC&center=true&vCenter=true&width=435&lines=Hicham+Issoual;Front-End+Developer+💻;Welcome+to+my+Profile!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=Hicham+Issoual;Front-End+Developer+💻;Welcome+to+my+Profile!+✨" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ0aTV2Njk1bDM3bHlpbTlwcDRyYnc3ZWpkNzRtZmR5YmYzZXAxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="400"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlmNDBjODIxZDNkYjEzZjFhOTQ5YjYzYTRiOWJjMjQ2NDBiMzg2NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> About Me
