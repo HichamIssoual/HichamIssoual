@@ -115,15 +115,6 @@ REST APIs        ████████████████░░░░░
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HichamIssoual&custom_title=Hicham's%20Github%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Hicham's Github Activity Graph" width="100%">
   </a>
 </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HichamIssoual/HichamIssoual/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/HichamIssoual/HichamIssoual/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/HichamIssoual/HichamIssoual/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
   Current Learning Path
@@ -166,10 +157,10 @@ mindmap
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hichamissoual-dev/">
+  <a href="https://www.linkedin.com/in/hichamissoual-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/hicham_dev">
+  <a href="https://x.com/hicham_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="mailto:hichamissoual.one@gmail.com">
