@@ -76,22 +76,6 @@ const hicham = {
     </tr>
   </table>
 
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+My+Development+Arsenal&font=Fira%20Code&center=true&width=380&height=50">
-  </div>
-
-  <!-- Skill Progress Bars -->
-<div align="center">
-  <h3>💫 Skill Levels</h3>
-  
-```text
-HTML & CSS       ███████████████████░░   90%
-JavaScript       ███████████████░░░░░░   75%
-Tailwind CSS     █░░░░░░░░░░░░░░░░░░░░░   5%
-Git & GitHub     ████████████████░░░░░   80%
-REST APIs        ██████████████████░░░   85%
-```
-</div>
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> 
   GitHub Analytics
