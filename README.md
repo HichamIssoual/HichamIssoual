@@ -116,7 +116,7 @@ REST APIs        ██████████████████░░░
   </a>
 </div>
 <h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
+  💻
   Current Learning Path
 </h2>
 
