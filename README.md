@@ -66,10 +66,6 @@ const hicham = {
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-        <br>Rest APIs
-      </td>
-      <td align="center" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
   <br>Git
 </td>
@@ -98,7 +94,7 @@ const hicham = {
   <a href="https://github.com/HichamIssoual">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HichamIssoual&custom_title=Hicham's%20Github%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Hicham's Github Activity Graph" width="100%">
   </a>
-</div>
+</div>       
 <h2>
   💻
   Current Learning Path
