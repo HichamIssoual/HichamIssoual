@@ -66,6 +66,14 @@ const hicham = {
         <br>Tailwind
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="tailwind" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="tailwind" />
+        <br>Redux
+      </td>
+      <td align="center" width="96">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
   <br>Git
 </td>
