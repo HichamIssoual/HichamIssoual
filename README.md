@@ -49,10 +49,8 @@ I thrive on tackling complex challenges, optimizing performance, and delivering 
   </a>
 </div>
 
-<h2>🐍 Snake Animation</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HichamIssoual/HichamIssoual/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 <h2>🌍 Connect With Me</h2>
 
