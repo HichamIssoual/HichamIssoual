@@ -3,9 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=30&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&random=false&width=435&lines=I'm+Hicham+Issoual;Front-End+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=30&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=I'm+Hicham+Issoual;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,82 +11,29 @@
 </p>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ0aTV2Njk1bDM3bHlpbTlwcDRyYnc3ZWpkNzRtZmR5YmYzZXAxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" width="400"/>
 </div>
 
-<h2>
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"/> 
-  About Me
-</h2>
+<h2>🚀 About Me</h2>
+<p>
+Hello! I'm <strong>Hicham Issoual</strong>, a dedicated Full-Stack Developer from Morocco 🇲🇦. I specialize in crafting interactive and user-centric web applications using modern technologies. My development journey began with HTML, CSS, and JavaScript, and has since expanded to encompass both front-end and back-end frameworks.
+</p>
+<p>
+I thrive on tackling complex challenges, optimizing performance, and delivering seamless user experiences. Beyond coding, I enjoy exploring emerging technologies, honing my skills, and savoring a good cup of coffee ☕.
+</p>
 
-```typescript
-const hicham = {
-    name: "Hicham Issoual",
-    title: "Front-End Developer",
-    location: "Morocco 🇲🇦",
-    education: {
-        degree: "Baccalauréat in Sciences de la vie et de la terre",
-        school: "Lycée Iguig El Ksiba",
-        year: "2021-2022"
-    },
-    currentFocus: "Self-taught Front-End Development journey",
-    funFact: "I turn ☕ into <code/>",
-    hobbies: ["Coding", "Learning", "Problem Solving"]
-};
-```
-
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> 
-  Technical Skills
-</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="tailwind" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="tailwind" />
-        <br>Redux
-      </td>
-      <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
-  <br>Git
-</td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,git,github,vscode" width="800" alt="Tech Stack" />
+</div>
 
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> 
-  GitHub Analytics
-</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/HichamIssoual">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HichamIssoual&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HichamIssoual&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HichamIssoual&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamIssoual&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
@@ -96,53 +41,20 @@ const hicham = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HichamIssoual&theme=tokyonight&hide_border=true"/>
 </p>
 
-<h2>📊 Contribution Graph</h2>
+<h2>📈 Contribution Graph</h2>
 
 <div align="center">
   <a href="https://github.com/HichamIssoual">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HichamIssoual&custom_title=Hicham's%20Github%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Hicham's Github Activity Graph" width="100%">
   </a>
-</div>       
-<h2>
-  💻
-  Current Learning Path
-</h2>
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Web Development))
-    Advanced JavaScript
-      ES6+ Features
-      Async Programming
-    Frontend Frameworks
-      React Basics
-      State Management
-    Web Performance
-      Optimization
-      Best Practices
-```
-
 </div>
 
-<h2>🎯 Future Goals</h2>
+<h2>🐍 Snake Animation</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HichamIssoual/HichamIssoual/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-<div align="center">
-
-| Short Term | Long Term |
-|------------|-----------|
-| Master JavaScript ES6+ | Become Full-Stack Developer |
-| Learn React.js | Build Complex Web Applications |
-| Improve UI/UX Skills | Contribute to Open Source |
-| Build Portfolio Projects | Master System Design |
-
-</div>
-
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> 
-  Connect With Me
-</h2>
+<h2>🌍 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hichamissoual/" target="_blank">
@@ -155,6 +67,7 @@ mindmap
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer" width="100%" />
 </div>
