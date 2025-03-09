@@ -23,22 +23,22 @@ Hello! I'm <strong>Hicham Issoual</strong>, a dedicated Full-Stack Developer fro
 
 <div align="center">
   <h4><strong>Front-End:</strong></h4>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux" width="600" alt="Front-End Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux" width="400" alt="Front-End Tech Stack" />
 </div>
 
 <div align="center">
   <h4><strong>Back-End:</strong></h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" width="200" alt="Back-End Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" width="133" alt="Back-End Tech Stack" />
 </div>
 
 <div align="center">
   <h4><strong>Databases:</strong></h4>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="100" alt="Database Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="66" alt="Database Tech Stack" />
 </div>
 
 <div align="center">
   <h4><strong>Tools:</strong></h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" width="300" alt="Tools Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" width="200" alt="Tools Tech Stack" />
 </div>
 
 
