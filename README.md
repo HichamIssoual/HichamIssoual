@@ -18,15 +18,29 @@
 <p>
 Hello! I'm <strong>Hicham Issoual</strong>, a dedicated Full-Stack Developer from Morocco 🇲🇦. I specialize in crafting interactive and user-centric web applications using modern technologies. My development journey began with HTML, CSS, and JavaScript, and has since expanded to encompass both front-end and back-end frameworks.
 </p>
-<p>
-I thrive on tackling complex challenges, optimizing performance, and delivering seamless user experiences. Beyond coding, I enjoy exploring emerging technologies, honing my skills, and savoring a good cup of coffee ☕.
-</p>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>⚙️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,git,github,vscode" width="800" alt="Tech Stack" />
+  <h4><strong>Front-End:</strong></h4>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux" width="600" alt="Front-End Tech Stack" />
 </div>
+
+<div align="center">
+  <h4><strong>Back-End:</strong></h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" width="200" alt="Back-End Tech Stack" />
+</div>
+
+<div align="center">
+  <h4><strong>Databases:</strong></h4>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="100" alt="Database Tech Stack" />
+</div>
+
+<div align="center">
+  <h4><strong>Tools:</strong></h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" width="300" alt="Tools Tech Stack" />
+</div>
+
 
 <h2>📊 GitHub Stats</h2>
 
