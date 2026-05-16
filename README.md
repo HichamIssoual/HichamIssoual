@@ -74,11 +74,11 @@ I live at the intersection of **art and code** — where a brand's soul meets it
 
 <div align="center">
 
-![Hicham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hichamIssoual&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9A00&icon_color=FF9A00&text_color=ffffff)
+![Hicham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HichamIssoual&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9A00&icon_color=FF9A00&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hichamIssoual&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9A00&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HichamIssoual&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9A00&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hichamIssoual&theme=dark&hide_border=true&background=0D1117&ring=FF9A00&fire=FF9A00&currStreakLabel=FF9A00)
+![GitHub Streak](https://streak-stats.demolab.com?user=HichamIssoual&theme=dark&hide_border=true&background=0D1117&ring=FF9A00&fire=FF9A00&currStreakLabel=FF9A00)
 
 </div>
 
